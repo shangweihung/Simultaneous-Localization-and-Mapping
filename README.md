@@ -12,6 +12,6 @@ Simultaneous Localization and Mapping (SLAM) is an extremely important algorithm
 * math  
 
 # Demo
-![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/dataset_20.gif=250x250)  
-![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/dataset_21.gif=250x250)  
-![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/testset.gif=250x250)  
+![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/dataset_20.gif,{width=400px height=400px})  
+![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/dataset_21.gif,{width=400px height=400px})  
+![image](https://github.com/shangweihung/Simultaneous-Localization-and-Mapping/blob/master/Demo_gif/testset.gif,{width=400px height=400px})  
